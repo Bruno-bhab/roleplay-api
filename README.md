@@ -76,5 +76,3 @@ node ace test
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
-
----
